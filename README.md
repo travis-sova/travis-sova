@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a Junior Software Developer student.
 
-Seeking internships, junior developer roles, or collaborative projects to enhance my real-world development experience and contribute to various projects.
+Open to collaborative projects to enhance my real-world development experience and contribute to various projects.
 ## 🔗 Links
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/travissova/)
 
