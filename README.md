@@ -1,9 +1,13 @@
 # Hi, I'm Travis! 👋
 
 ## 🚀 About Me
-I'm a Junior Software Developer student.
 
-Open to collaborative projects to enhance my real-world development experience and contribute to various projects.
+Junior software developer and student based in Estonia, with hands-on experience in web development.
+
+Day-to-day, I work primarily on frontend development, which is proprietary, so this GitHub mainly contains work from my studies, personal projects and experiments.
+
+Open to collaborative projects to enhance my development experience and contribute to various projects.
+
 ## 🔗 Links
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/travissova/)
 
